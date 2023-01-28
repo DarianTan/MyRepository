@@ -42,5 +42,12 @@ public class Card {
      */
     public void setValue(int value) {
         this.value = value;
-    }  
+    }
+
+    int randomCard() {
+       return 0;
+    }
+    
+    
 }
+
